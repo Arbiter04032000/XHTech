@@ -11,7 +11,8 @@ Xavier Hancock is a heavily technically-minded game designer, practiced in the a
 _Finished_ </br>
 Damnation is a top-down roguelike dungeon crawler, with heavy horror elements and strategic gameplay. </br>
 On this project, I served primarily as the technical designer, complementing our more gameplay and sound oriented gameplay designer, as well as our sole programmer. I also served as the lighting and VFX engineer as a secondary role.
-
+<img align="centre" src="https://github.com/Arbiter04032000/xhTech/blob/master/Testimage.png">
+![alt text](https://github.com/Arbiter04032000/xhTech/blob/master/Testimage.png "This syntax is for descriptions")
 
 ### Contact
 
