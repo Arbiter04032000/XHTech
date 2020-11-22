@@ -3,34 +3,16 @@
 
 ***This website is an all-in-one place to find projects I am, or have, working on, the technical experiments I delve into, and the things I simply enjoy, be they in the gaming or technological worlds.***
 
-### Markdown
+### About Me
+Xavier Hancock is a heavily technically-minded game designer, practiced in the art of breaking down patterns and puzzles to their core logic, learning the methods of these logics, and then rebuilding them into valuable new designs. </br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Projects
+### Damnation
+_Finished_ </br>
+Damnation is a top-down roguelike dungeon crawler, with heavy horror elements and strategic gameplay. </br>
+On this project, I served primarily as the technical designer, complementing our more gameplay and sound oriented gameplay designer, as well as our sole programmer. I also served as the lighting and VFX engineer as a secondary role.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arbiter04032000/xhTech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### Contact
 
 *Email* - XavierHTech@gmail.com     *LinkedIn* - [Xavier Hancock](https://www.linkedin.com/in/xavier-hancock-a25282176/)     *Twitter* - [@XavierHTech](https://twitter.com/XavierHTech)
