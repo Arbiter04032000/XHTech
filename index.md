@@ -1,6 +1,6 @@
 ## Welcome, traveller.
 
-***This website is an all-in-one place to find projects I am, or have, working on, the technical experiments I delve into, and the things I simply enjoy, be they in the gaming or technological worlds.
+***This website is an all-in-one place to find projects I am, or have, working on, the technical experiments I delve into, and the things I simply enjoy, be they in the gaming or technological worlds.***
 
 ### Markdown
 
