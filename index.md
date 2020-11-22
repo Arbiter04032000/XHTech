@@ -1,3 +1,7 @@
+---
+title: Portfolio
+---
+
 # Xavier Hancock's Tech Den
 ## Welcome, traveller.
 
@@ -15,5 +19,7 @@ On this project, I served primarily as the technical designer, complementing our
 ![alt text](https://github.com/Arbiter04032000/xhTech/blob/master/Testimage.png "This syntax is for descriptions")
 
 ### Contact
+If you have any inquiries, a need for someone to break your lights into formulae, or just a chat, please get in contact!</br>
+You can contact me through any of the methods below.</br></br>
 
 *Email* - XavierHTech@gmail.com     *LinkedIn* - [Xavier Hancock](https://www.linkedin.com/in/xavier-hancock-a25282176/)     *Twitter* - [@XavierHTech](https://twitter.com/XavierHTech)
