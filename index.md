@@ -21,4 +21,4 @@ On this project, I served primarily as the technical designer, complementing our
 If you have any inquiries, a need for someone to break your lights into formulae, or just a chat, please get in contact!</br>
 You can contact me through any of the methods below.<br><br>
 
-[*Email*](XavierHTech@gmail.com) ---- [*LinkedIn*](https://www.linkedin.com/in/xavier-hancock-a25282176/) ---- [*Twitter*](https://twitter.com/XavierHTech)
+ [*Email*](XavierHTech@gmail.com) ‾_ [*LinkedIn*](https://www.linkedin.com/in/xavier-hancock-a25282176/) _‾ [*Twitter*](https://twitter.com/XavierHTech)
