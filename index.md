@@ -26,7 +26,7 @@ Check back in a few months.
 ### Magdora-verse
 _The perpetual project_<br>
 The Magdora-verse project is a hobby writing project, involving writing a fictional universe centered around a location of the same name.<br>
-This is a project that has been running since 2016, and so far all public information about it is located [here](https://magdoraverseofficial.fandom.com)
+This is a project that has been running since 2016, and so far all public information about it is located [here](https://magdoraverseofficial.fandom.com). Updates to this wiki will come as I feel the information is ready- generally whenever the details are consistent enough for it to make sense.
 <br><br>
 
 ### Contact
