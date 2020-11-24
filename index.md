@@ -7,7 +7,7 @@ title: Portfolio
 ***This website is an all-in-one place to find projects I am, or have, working on, the technical experiments I delve into, and the things I simply enjoy, be they in the gaming or technological worlds.***
 
 ### About Me
-Xavier Hancock is a heavily technically-minded game designer, practiced in the art of breaking down patterns and puzzles to their core logic, learning the methods of these logics, and then rebuilding them into valuable new designs.<br>
+<img align="right" width=200 height=250 src="https://raw.githubusercontent.com/Arbiter04032000/xhTech/master/Media/xavier_hancockcrop.jpg"> Xavier Hancock is a heavily technically-minded game designer, practiced in the art of breaking down patterns and puzzles to their core logic, learning the methods of these logics, and then rebuilding them into valuable new designs.<br>
 
 ## Projects
 ### Damnation
