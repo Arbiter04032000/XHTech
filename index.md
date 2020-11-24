@@ -17,6 +17,7 @@ Damnation is a top-down roguelike dungeon crawler, with heavy horror elements an
 On this project, I served primarily as the technical designer, complementing our more gameplay and sound oriented gameplay designer, as well as our sole programmer. I also served as the lighting and VFX engineer as a secondary role.<br>
 <img align="centre" src="https://raw.githubusercontent.com/Arbiter04032000/xhTech/master/Media/Damnation_Banner_LabyrinthStudios_LandscapeTrueSize.jpg">
 <br><br>
+[![alt text](http://img.youtube.com/vi/5EiTH6ipOf0/0.jpg)](https://youtu.be/5EiTH6ipOf0 "Damnation - Trailer")
 
 ### PRJ Starshot
 _Coming soon!_<br>
