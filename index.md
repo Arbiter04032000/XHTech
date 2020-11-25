@@ -34,6 +34,3 @@ If you have any inquiries, a need for someone to break your lights into formulae
 You can contact me through any of the methods below.<br><br>
 
  [*Email*](XavierHTech@gmail.com) ----- [*LinkedIn*](https://www.linkedin.com/in/xavier-hancock-a25282176/) ----- [*Twitter*](https://twitter.com/XavierHTech)
- 
- 
- <img align="centre" src="https://raw.githubusercontent.com/Arbiter04032000/xhTech/master/Media/Damnation_Banner_LabyrinthStudios_LandscapeTrueSize.jpg">
