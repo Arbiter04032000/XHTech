@@ -20,8 +20,12 @@ On this project, I served primarily as the technical designer, complementing our
 
 ### PRJ Starshot
 _Coming soon!_<br>
-Check back in a few months.
-[![alt text](https://raw.githubusercontent.com/Arbiter04032000/xhTech/master/Testimage.png)](https://raw.githubusercontent.com/Arbiter04032000/xhTech/master/Testimage.png "Coming Soon!")
+Take the role of the flag captain of a fleet of starships, and set out into the stars, taking on a mission of your choosing. What would you do to complete that mission, pray tell? What risks would you take? What of your crew and assets would you sacrifice? Would you make someone a predatious rival, or a convenient ally? What dark secrets might you uncover in your journeys...<br>
+You will be able to answer these yourself.<br>
+[![alt text](https://raw.githubusercontent.com/Arbiter04032000/xhTech/master/Testimage.png)](https://raw.githubusercontent.com/Arbiter04032000/xhTech/master/Testimage.png "Coming Soon!")<br><br>
+Project Starshot is a game that combines aspects of games like FTL: Faster Than Light and the XCOM series, specifically the storytelling of the former, and combat systems of the latter, as well as a number of tropes from scifi action-adventure fiction.<br>
+If you wish to see more about this project as it develops, please see the Github repository and blog! (Links will be added when available.)
+
 <br><br>
 
 ### Magdora-verse
