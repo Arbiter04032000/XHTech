@@ -1,2 +1,0 @@
-# xhTech
-Personal website
