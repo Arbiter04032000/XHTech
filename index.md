@@ -22,9 +22,10 @@ On this project, I served primarily as the technical designer, complementing our
 _Coming soon!_<br>
 Take the role of the flag captain of a fleet of starships, and set out into the stars, taking on a mission of your choosing. What would you do to complete that mission, pray tell? What risks would you take? What of your crew and assets would you sacrifice? Would you make someone a predatious rival, or a convenient ally? What dark secrets might you uncover in your journeys...<br>
 You will be able to answer these yourself.<br>
-[![alt text](https://raw.githubusercontent.com/Arbiter04032000/xhTech/master/Testimage.png)](https://raw.githubusercontent.com/Arbiter04032000/xhTech/master/Testimage.png "Coming Soon!")<br><br>
-Project Starshot is a game that combines aspects of games like FTL: Faster Than Light and the XCOM series, specifically the storytelling of the former, and combat systems of the latter, as well as a number of tropes from scifi action-adventure fiction.<br>
-If you wish to see more about this project as it develops, please see the Github repository and blog! (Links will be added when available.)
+[![alt text](https://raw.githubusercontent.com/Arbiter04032000/xhTech/master/Media/Screenshot00006.png)](https://raw.githubusercontent.com/Arbiter04032000/xhTech/master/Media/Screenshot00006.png "Coming Soon!")<br><br>
+Project Starshot is a game that combines the storytelling elements of games like FTL: Faster Than Light and Rimworld with the strategy elements of the XCOM franchise, with most of the focus being on weaving a story through the decisions made by the player strategically and otherwise, and their ramifications, small and large.<br>
+One other key design element of this project is the allowance for most of the game's content to be easily modified or added onto by third-party sources. Namely, to add more story segments, all one would need to do is import a new datatable that contains said elements, and link it to the story indexer. The same process would work on ships and other things, but those have yet to be implemented fully. <br>
+If you wish to see more about this project as it develops, please follow me on LinkedIn and (when it's ready) the blogsite for the project.
 
 <br><br>
 
